@@ -1,4 +1,4 @@
-# Hi there 👋, I'm [Your Name]!
+# Hi there 👋, I'm [Abdulloh Umar]!
 
 🎉 **Welcome to my GitHub Profile!**
 
@@ -17,16 +17,14 @@ I’m a passionate Web and Flutter developer from Indonesia, with a strong inter
 
 ## 🚀 What I'm Currently Working On
 
-- 🌱 Improving my skills in [new technologies or frameworks].
-- 🔧 Building [project name], a [brief description of your project].
-- 💼 Collaborating with [mention any open-source project or organization if applicable].
+- 🌱 Improving my skills in [Laravel 11].
 
 ## 📈 GitHub Stats
 
-![Your Name's GitHub Stats](https://github-readme-stats.vercel.app/api?username=abdullohumar&show_icons=true&theme=radical)
+![Abdulloh Umar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=abdullohumar&show_icons=true&theme=radical)
 
 ## 🌍 Let's Connect!
 
 - LinkedIn: [Abdulloh Umar](https://www.linkedin.com/in/abdullohumar1/)
 - Portfolio: [Your Portfolio Link](https://yourportfolio.com)
-- Twitter: [Your Twitter Handle](https://twitter.com/yourhandle)
+- Instagram: [@abdel.oemar](https://instagram.com/abdel.oemar)
