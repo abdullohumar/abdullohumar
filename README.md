@@ -17,7 +17,7 @@ I’m a passionate Web and Flutter developer from Indonesia, with a strong inter
 
 ## 🚀 What I'm Currently Working On
 
-- 🌱 Improving my skills in [Laravel 11].
+- 🌱 Improving my skills in [Laravel 11 and React].
 
 ## 📈 GitHub Stats
 
@@ -26,5 +26,4 @@ I’m a passionate Web and Flutter developer from Indonesia, with a strong inter
 ## 🌍 Let's Connect!
 
 - LinkedIn: [Abdulloh Umar](https://www.linkedin.com/in/abdullohumar1/)
-- Portfolio: [Your Portfolio Link](https://yourportfolio.com)
 - Instagram: [@abdel.oemar](https://instagram.com/abdel.oemar)
