@@ -27,4 +27,4 @@ I’m a passionate Web and Flutter developer from Indonesia, with a strong inter
 ## 🌍 Let's Connect!
 
 - LinkedIn: [Abdulloh Umar](https://www.linkedin.com/in/abdullohumar1/)
-- Instagram: [@abdel.oemar](https://instagram.com/abdel.oemar)
+- Instagram: [@abdel.oemar](https://instagram.com/abdoel.oemar)
