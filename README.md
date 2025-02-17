@@ -14,6 +14,7 @@ I’m a passionate Web and Flutter developer from Indonesia, with a strong inter
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 ![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
 ## 🚀 What I'm Currently Working On
 
