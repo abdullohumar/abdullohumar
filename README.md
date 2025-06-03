@@ -18,7 +18,7 @@ I’m a passionate Web and Flutter developer from Indonesia, with a strong inter
 
 ## 🚀 What I'm Currently Working On
 
-- 🌱 Improving my skills in [Laravel 11 and React].
+- 🌱 Improving my skills in [Flutter and Machine Learning].
 
 ## 📈 GitHub Stats
 
